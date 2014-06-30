@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\HangmanClass\HangmanClass\bin\Debug\HangmanClass.exe.config
+C:\Users\Technologist\Documents\GitHub\HangmanClass\HangmanClass\bin\Debug\HangmanClass.exe
+C:\Users\Technologist\Documents\GitHub\HangmanClass\HangmanClass\bin\Debug\HangmanClass.pdb
+C:\Users\Technologist\Documents\GitHub\HangmanClass\HangmanClass\obj\Debug\HangmanClass.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\HangmanClass\HangmanClass\obj\Debug\HangmanClass.exe
+C:\Users\Technologist\Documents\GitHub\HangmanClass\HangmanClass\obj\Debug\HangmanClass.pdb
